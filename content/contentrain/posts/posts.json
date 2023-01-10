@@ -125,10 +125,11 @@
     "slug": "new-blog-post-test",
     "categories": [],
     "ID": "ee3871a5-6b36-4804-a422-be70963d0021",
-    "content": "This is a new blog post for testing the Contentrain blog system.\n",
+    "content": "This is a new blog post for testing the Contentrain blog system.\ntest",
     "tags": [],
     "author": [],
     "coverImage": "static/1665072446043_images02.jpg",
-    "createdAt": 1665072487041
+    "createdAt": 1665072487041,
+    "updatedAt": 1673332016432
   }
 ]
