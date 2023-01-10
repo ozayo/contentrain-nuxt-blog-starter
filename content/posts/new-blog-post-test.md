@@ -8,6 +8,8 @@ tags: []
 author: []
 coverImage: "static/1665072446043_images02.jpg"
 createdAt: 1665072487041
+updatedAt: 1673332016432
 
 ---
 This is a new blog post for testing the Contentrain blog system.
+test
